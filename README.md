@@ -6,7 +6,7 @@ A hand-coded static website journaling real Silliman University events I attende
 
 ## Preview
 
-View it live: **[https://jlumi382.github.io/ge10-journal/](https://jlumi382.github.io/ge10-journal/)**
+View it live: **[https://miguelith.github.io/WPE-Journal/](https://miguelith.github.io/WPE-Journal/)**
 
 - Homepage → 5 category pages → **39 individual event write-ups**
 - Each entry: organizer, venue, date, photo proof, and a short personal reflection
