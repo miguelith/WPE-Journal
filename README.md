@@ -39,6 +39,3 @@ The point was to learn web development from the ground up, so there are no frame
 | CSS | theming, Flexbox layout, responsive media queries |
 | JavaScript | small interactive touches (e.g. context-menu guard) |
 | GitHub Pages | static hosting and deployment |
-
----
-*© 2024 Miguel Luis Jumawan · [MIT licensed](LICENSE)*
